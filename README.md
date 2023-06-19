@@ -1,3 +1,9 @@
+# "dz-cards"
+
+[![Build status](https://ci.appveyor.com/api/projects/status/9lvakd9pwtvbkd43?svg=true)](https://ci.appveyor.com/project/pvova21/dz-cards)
+
+## [GitHub Pages](https://pvova21.github.io/dz-cards/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
